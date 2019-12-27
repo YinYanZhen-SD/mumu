@@ -1,0 +1,33 @@
+#运行端口
+server:
+  port: 8088
+
+#数据库连接信息
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/mumuData?useUnicode=true&characterEncoding=utf-8&autoReconnect=true&failOverReadOnly=false&useSSL=true&serverTimezone=Asia/Shanghai
+    username: root
+    password: root
+  profiles:
+    active: dev
+  #  视图层
+  mvc:
+    view:
+      prefix: classpath:/templates/
+      suffix: .html
+    static-path-pattern: /**
+  resources:
+    static-locations: classpath:/static/
+  #  热部署生效
+  devtools:
+    restart:
+      enabled: true
+      additional-paths: src/main/java
+  thymeleaf:
+    mode: HTML5
+    prefix: classpath:/templates/
+#mybatis-plus配置
+mybatis-plus:
+  global-config:
+    banner: false
