@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64a980b6-bd21-49bc-b73f-63f2f1ba7cc0" name="Default Changelist" comment="" />
+    <list default="true" id="64a980b6-bd21-49bc-b73f-63f2f1ba7cc0" name="Default Changelist" comment="frist">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +33,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\WorkSpace\mumu\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -48,6 +57,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1V8xez5QzKgXNpO6c0lukS7M5VW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -66,7 +76,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -170,12 +180,24 @@
       <workItem from="1577024751878" duration="283000" />
       <workItem from="1577083757460" duration="12006000" />
       <workItem from="1577170420712" duration="3737000" />
-      <workItem from="1577452416975" duration="1923000" />
+      <workItem from="1577452416975" duration="3745000" />
     </task>
+    <task id="LOCAL-00001" summary="frist">
+      <created>1577454817775</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577454817775</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="frist" />
+    <option name="LAST_COMMIT_MESSAGE" value="frist" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="181" width="816" height="725" key="#Intentions" timestamp="1577170566440">
@@ -194,14 +216,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="744" y="386" width="445" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1576832593370" />
-    <state x="459" y="113" key="CommitChangelistDialog2" timestamp="1577454795882">
+    <state x="459" y="113" key="CommitChangelistDialog2" timestamp="1577455959919">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="459" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577454795882" />
-    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1577454647583">
+    <state x="459" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577455959919" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1577455988183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577454647583" />
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577455988183" />
+    <state x="835" y="415" width="274" height="209" key="Github.ShareDialog" timestamp="1577456462332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="835" y="415" width="274" height="209" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577456462332" />
     <state width="1877" height="343" key="GridCell.Tab.0.bottom" timestamp="1577109521788">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -234,10 +260,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="343" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577109521788" />
-    <state x="463" y="165" key="SettingsEditor" timestamp="1577454641059">
+    <state x="463" y="165" key="SettingsEditor" timestamp="1577456189905">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577454641059" />
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577456189905" />
     <state x="766" y="303" key="chooseDestDirectoryDialog" timestamp="1576832592797">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -250,6 +276,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="731" y="250" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577170556833" />
+    <state x="749" y="322" key="git4idea.merge.GitMergeDialog" timestamp="1577455977088">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="749" y="322" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577455977088" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1576734194946">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
