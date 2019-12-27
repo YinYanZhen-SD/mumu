@@ -43,6 +43,7 @@ public class UserController {
     @ResponseBody
     public String remoteUsername(String username){
         System.out.println("username:"+username);
+        System.out.println(111);
         return "";
 
     }
